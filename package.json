@@ -1,0 +1,17 @@
+{
+  "name": "async-image-loading",
+  "version": "1.0.0",
+  "description": "Async loading images with progress",
+  "main": "app.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Izik Dalal",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
